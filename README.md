@@ -6,7 +6,7 @@
 * 장르는 쿼터뷰, 로그라이크, PvE, 협동, 액션입니다.
 * 개발기간은 2025.6.13 ~ 2025.8.9, 약 2달 소요되었습니다.
 
-[<img src="https://github.com/leebo155/OmegaProtocol/blob/main/images/Steam_logo.png" width=100>](https://youtu.be/Iia-4RZ8x-8?si=FeRg-4KO9Y1xfonO) 
+[<img src="https://github.com/leebo155/OmegaProtocol/blob/main/images/Steam_logo.png" width=100>](https://store.steampowered.com/app/3891070/Omega_Protocol_Demo/) 
 [<img src="https://github.com/leebo155/OmegaProtocol/blob/main/images/Youtube_logo.png" width=145>](https://youtu.be/Iia-4RZ8x-8?si=FeRg-4KO9Y1xfonO)
 
 ### 사용 기술
