@@ -17,13 +17,12 @@
 
 
 ### 담당업무
-* 초안 기획
-* 작업 방향성 결정
-* 온라인 세션 관리 개발
-* 게임 시스템 설계/개발
-* UI 디자인/개발
-* 로비 및 아웃게임 개발
-
+* 프로토타입 제작
+* 플레이어 이동 및 애니메이션
+* 스킬 시스템
+* 무기 시스템
+* 사운드 매니저
+* 변신 상호작
 
 ### 제작자
 |<img src="https://github.com/leebo155.png" width=240>|<img src="https://github.com/shng6815.png" width="240">|<img src="https://github.com/kofeeel.png" width=240>|<img src="https://github.com/Baekbanjang.png" width=240>|<img src="https://github.com/chaseunggeun.png" width=240>|
