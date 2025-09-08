@@ -22,7 +22,7 @@
 * 스킬 시스템
 * 무기 시스템
 * 사운드 매니저
-* 변신 상호작
+* 변신 상호작용
 
 ### 제작자
 |<img src="https://github.com/leebo155.png" width=240>|<img src="https://github.com/shng6815.png" width="240">|<img src="https://github.com/kofeeel.png" width=240>|<img src="https://github.com/Baekbanjang.png" width=240>|<img src="https://github.com/chaseunggeun.png" width=240>|
